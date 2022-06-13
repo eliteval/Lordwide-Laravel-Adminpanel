@@ -45,13 +45,13 @@
                 </a>
             </div>
             <div class="collapse navbar-collapse mt-sm-0 mt-2 me-md-0 me-sm-4 justify-content-end" id="navbar">
-                <div class="nav-item d-flex align-self-end">
+                {{-- <div class="nav-item d-flex align-self-end">
                     <a href="https://www.creative-tim.com/product/soft-ui-dashboard-pro-laravel" target="_blank"
                         class="btn btn-primary active mt-3" role="button" aria-pressed="true">
                         <span class="pe-2 mt-3"><i class="fas fa-shopping-cart fa-lg mt-1"></i></span>
                         Purchase Now
                     </a>
-                </div>
+                </div> --}}
                 <div class="ms-md-3 pe-md-3 d-flex align-items-center">
                     <div class="input-group">
                         <span class="input-group-text text-body"><i class="fas fa-search" aria-hidden="true"></i></span>
